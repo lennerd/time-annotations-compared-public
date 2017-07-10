@@ -1,6 +1,7 @@
 {
   "name": "time-annotations-compared-public",
   "description": "Compared public time annotations created within the heureCLÉA project http://heureclea.de",
+  "main": "index.js",
   "version": "1.1.0",
   "repository": {
     "type": "git",
